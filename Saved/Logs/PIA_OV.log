@@ -2168,3 +2168,869 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.21-05.24.26:887][316]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
 [2023.05.21-05.24.26:887][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.05.21-05.24.31:143][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.21-05.24.41:634][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.21-05.25.01:442][576]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03.BT_Zombie03
+[2023.05.21-05.25.59:137][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.21-05.25.59:140][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Windmills/Maps/Windmills_Demo_WP' took 0.033
+[2023.05.21-05.25.59:141][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03] ([1] browsable assets)...
+[2023.05.21-05.25.59:141][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03]
+[2023.05.21-05.25.59:144][949]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03_Auto1
+[2023.05.21-05.25.59:144][949]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie03_Auto119421C08447D1408B9A026AD40C27652.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/Autosaves/Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03_Auto1.uasset'
+[2023.05.21-05.25.59:145][949]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.05.21-05.27.06:087][150]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround.BTT_RoamAround
+[2023.05.21-05.27.06:087][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.27.44:714][407]BlueprintLog: New page: Compile BTT_RoamAround
+[2023.05.21-05.27.44:766][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.21-05.27.47:702][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.27.47:739][691]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03
+[2023.05.21-05.27.47:739][691]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie03ED68E96F4292197792885EBA390E9F2C.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03.uasset'
+[2023.05.21-05.27.47:745][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 422 ms)
+[2023.05.21-05.27.47:753][691]AssetCheck: New page: Asset Save: BT_Zombie03
+[2023.05.21-05.27.47:753][691]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03.BT_Zombie03
+[2023.05.21-05.28.05:115][461]BlueprintLog: New page: Compile BTT_RoamAround
+[2023.05.21-05.28.05:164][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.21-05.28.06:004][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.28.06:035][540]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround
+[2023.05.21-05.28.06:035][540]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BTT_RoamAround9BBD65DD40B74B01C36FCD976EE43A9A.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround.uasset'
+[2023.05.21-05.28.06:041][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 458 ms)
+[2023.05.21-05.28.06:050][540]AssetCheck: New page: Asset Save: BTT_RoamAround
+[2023.05.21-05.28.06:050][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround.BTT_RoamAround
+[2023.05.21-05.28.33:419][736]LogAssetTools: Warning: Failed to import 'C:\Users\Alejandro\Downloads\BP_EnemySpawner.uasset'. Unknown extension 'uasset'.
+[2023.05.21-05.28.56:093][229]LogAssetTools: Warning: Failed to import 'C:\Users\Alejandro\Downloads\BP_EnemySpawner.uasset'. Unknown extension 'uasset'.
+[2023.05.21-05.29.43:842][116]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPerson/BP_EnemySpawner.
+[2023.05.21-05.29.50:950][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: Failed to load '/Game/AI-Enemigos/BP_Huesitos': Can't find file.
+[2023.05.21-05.29.50:950][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: VerifyImport: Failed to load package for import object 'Package /Game/AI-Enemigos/BP_Huesitos'
+[2023.05.21-05.29.50:950][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: Failed to load '/Game/AI-Enemigos/BP_Kuumer': Can't find file.
+[2023.05.21-05.29.50:950][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: VerifyImport: Failed to load package for import object 'Package /Game/AI-Enemigos/BP_Kuumer'
+[2023.05.21-05.29.50:950][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: Failed to load '/Game/AI-Enemigos/BP_NoBoing': Can't find file.
+[2023.05.21-05.29.50:950][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: VerifyImport: Failed to load package for import object 'Package /Game/AI-Enemigos/BP_NoBoing'
+[2023.05.21-05.29.50:951][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: Failed to load '/Game/User_Interface/Numeros/683f3cbdd55776b914b30f6c80ae06e2': Can't find file.
+[2023.05.21-05.29.50:951][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: VerifyImport: Failed to load package for import object 'Package /Game/User_Interface/Numeros/683f3cbdd55776b914b30f6c80ae06e2'
+[2023.05.21-05.29.50:951][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: Failed to load '/Game/User_Interface/Numeros/748b939a7bda34aa342c6479e33246be': Can't find file.
+[2023.05.21-05.29.50:951][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: VerifyImport: Failed to load package for import object 'Package /Game/User_Interface/Numeros/748b939a7bda34aa342c6479e33246be'
+[2023.05.21-05.29.50:951][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: Failed to load '/Game/User_Interface/UI_HUD': Can't find file.
+[2023.05.21-05.29.50:951][674]LogLinker: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: VerifyImport: Failed to load package for import object 'Package /Game/User_Interface/UI_HUD'
+[2023.05.21-05.29.51:126][674]LogBlueprint: Error: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.05.21-05.29.51:127][674]LogBlueprint: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: [Compiler] Could not find a variable named "Total" in 'BP_EnemySpawner'.
+Make sure 'BP_EnemySpawner' has been compiled for  Get Total
+[2023.05.21-05.29.51:127][674]LogBlueprint: Warning: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: [Compiler] Could not find a variable named "Contador" in 'BP_EnemySpawner'.
+Make sure 'BP_EnemySpawner' has been compiled for  Get Contador
+[2023.05.21-05.29.51:129][674]LogBlueprint: Error: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2023.05.21-05.29.51:129][674]LogBlueprint: Error: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2023.05.21-05.29.51:129][674]LogBlueprint: Error: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: [Compiler] The property associated with  Contador  could not be found in '/Game/ThirdPerson/BP_EnemySpawner.BP_EnemySpawner_C'
+[2023.05.21-05.29.51:129][674]LogBlueprint: Error: [AssetLog] E:\FCFM\7mo Semestre\OV\AvancesGit\PIA_OV\Content\ThirdPerson\BP_EnemySpawner.uasset: [Compiler] The property associated with  Total  could not be found in '/Game/ThirdPerson/BP_EnemySpawner.BP_EnemySpawner_C'
+[2023.05.21-05.29.51:164][674]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/BP_EnemySpawner.BP_EnemySpawner
+[2023.05.21-05.29.51:164][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.33.03:614][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_ChasePlayer.BTT_ChasePlayer
+[2023.05.21-05.33.03:614][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.33.21:971][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_AttackPlayer.BTT_AttackPlayer
+[2023.05.21-05.33.21:971][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.33.39:659][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.33.39:694][620]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03
+[2023.05.21-05.33.39:694][620]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie035E88CC0E4E6988363BF63B85AA3A3A08.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03.uasset'
+[2023.05.21-05.33.39:700][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 498 ms)
+[2023.05.21-05.33.39:709][620]AssetCheck: New page: Asset Save: BT_Zombie03
+[2023.05.21-05.33.39:709][620]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03.BT_Zombie03
+[2023.05.21-05.34.01:596][846]LogSlate: Window 'BP_EnemySpawner' being destroyed
+[2023.05.21-05.34.01:602][846]LogSlate: Window 'BP_EnemySpawner' being destroyed
+[2023.05.21-05.34.01:621][846]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.34.01:621][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.34.01:678][846]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.34.01:678][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.34.01:727][846]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.34.01:728][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.34.01:775][846]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.34.01:775][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.34.13:498][166]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01.BT_Zombie01
+[2023.05.21-05.34.20:456][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.34.20:485][956]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01
+[2023.05.21-05.34.20:485][956]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie01B2B317E64531569C08E35A9DA02429E2.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01.uasset'
+[2023.05.21-05.34.20:492][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 534 ms)
+[2023.05.21-05.34.20:501][956]AssetCheck: New page: Asset Save: BT_Zombie01
+[2023.05.21-05.34.20:501][956]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01.BT_Zombie01
+[2023.05.21-05.34.21:505][ 71]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BTT_Wander.BTT_Wander
+[2023.05.21-05.34.21:506][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.34.35:283][429]BlueprintLog: New page: Compile BTT_Wander
+[2023.05.21-05.34.35:347][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.21-05.34.35:918][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.34.35:953][480]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BTT_Wander
+[2023.05.21-05.34.35:954][480]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BTT_Wander5DA5BEE1444FE5DE5AE59AB89AAD6EB9.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_01/IA/BTT_Wander.uasset'
+[2023.05.21-05.34.35:960][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 576 ms)
+[2023.05.21-05.34.35:968][480]AssetCheck: New page: Asset Save: BTT_Wander
+[2023.05.21-05.34.35:968][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BTT_Wander.BTT_Wander
+[2023.05.21-05.34.51:399][255]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BT_Zombie03.BT_Zombie03
+[2023.05.21-05.35.09:352][298]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02.BT_Zombie02
+[2023.05.21-05.35.21:615][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.35.21:649][680]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02
+[2023.05.21-05.35.21:650][680]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie0251DA6F23449DC1BEFAD89090DBE32957.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02.uasset'
+[2023.05.21-05.35.21:660][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 621 ms)
+[2023.05.21-05.35.21:670][680]AssetCheck: New page: Asset Save: BT_Zombie02
+[2023.05.21-05.35.21:670][680]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02.BT_Zombie02
+[2023.05.21-05.35.22:755][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BTT_Patroll.BTT_Patroll
+[2023.05.21-05.35.22:755][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.35.40:654][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.35.40:663][351]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.35.40:672][351]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.35.40:672][351]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.35.40:672][351]LogWorldPartition: Display: GetPartitionedActors took 57 us (total: 517 us)
+[2023.05.21-05.35.40:751][351]LogWorldPartition: Display: GenerateStreaming took 78 ms (total: 897 ms)
+[2023.05.21-05.35.40:761][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.35.40:761][351]BlueprintLog: Warning: Blueprint failed to compile:  BP_EnemySpawner
+[2023.05.21-05.35.50:620][351]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.21-05.35.54:407][424]LogSlate: Window 'Message Log' being destroyed
+[2023.05.21-05.35.54:463][424]LogSlate: Window 'Message Log' being destroyed
+[2023.05.21-05.36.04:794][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.21-05.36.06:134][967]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.21-05.36.06:194][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.05.21-05.36.06:241][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.21-05.36.06:288][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.21-05.36.09:415][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.21-05.36.11:645][580]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.36.11:657][580]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.36.11:665][580]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.36.11:665][580]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.36.11:665][580]LogWorldPartition: Display: GetPartitionedActors took 54 us (total: 571 us)
+[2023.05.21-05.36.11:738][580]LogWorldPartition: Display: GenerateStreaming took 73 ms (total: 970 ms)
+[2023.05.21-05.36.11:745][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.36.11:745][580]BlueprintLog: Warning: Blueprint failed to compile:  BP_EnemySpawner
+[2023.05.21-05.36.15:740][580]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.21-05.36.15:745][580]PIE: New page: PIE session: Windmills_Demo_WP (May 20, 2023, 6:36:15 PM)
+[2023.05.21-05.36.15:745][580]LogPlayLevel: Creating play world package: /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.36.15:779][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034010s)
+[2023.05.21-05.36.15:779][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP to /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP (0.034044s)
+[2023.05.21-05.36.15:779][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.36.15:780][580]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.36.15:780][580]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.36.15:780][580]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.36.15:780][580]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.36.15:785][580]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.36.15:785][580]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 744 ms)
+[2023.05.21-05.36.15:785][580]LogPlayLevel: PIE: World Init took: (0.005768s)
+[2023.05.21-05.36.15:830][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.21-05.36.15:831][580]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.21-05.36.15:831][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-05.36.15:831][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-05.36.15:831][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-05.36.15:831][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-05.36.15:831][580]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.21-05.36.15:831][580]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-05.36.15:831][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.21-05.36.15:831][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-05.36.15:832][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-05.36.15:832][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-05.36.15:832][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-05.36.15:834][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-05.36.15:862][580]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.05.21-05.36.15:862][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-05.36.15:862][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-05.36.15:862][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-05.36.15:863][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.21-05.36.15:863][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.21-05.36.15:864][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.21-05.36.15:864][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.21-05.36.15:864][580]LogInit: FAudioDevice initialized.
+[2023.05.21-05.36.15:864][580]LogAudio: Display: Audio Device (ID: 9) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.36.15:866][580]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.21-05.36.15:869][580]LogWorld: Bringing World /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP up for play (max tick rate 0) at 2023.05.20-23.36.15
+[2023.05.21-05.36.15:869][580]LogWorld: Bringing up level for play took: 0.002843
+[2023.05.21-05.36.15:872][580]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.05.21-05.36.15:873][580]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-7630.000 Y=-1290.000 Z=1984.238
+[2023.05.21-05.36.15:874][580]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(0)
+[2023.05.21-05.36.15:874][580]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-7630.000 Y=-1290.000 Z=1984.238,P=0.000000 Y=0.000000 R=-0.000000
+[2023.05.21-05.36.15:878][580]LogStreaming: Display: FlushAsyncLoading(-1): 309 QueuedPackages, 0 AsyncPackages
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: ================================================
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Total job queries 1402, among them cache hits 1060 (75.61%)
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Tracking 342 distinct input hashes that result in 206 distinct outputs (60.23%)
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: RAM used: 3.41 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.42%
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Average time worker was idle: 0.11 s
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 1.22 s
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 1.32
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.27 s
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: Average processing rate: 0.88 jobs/sec
+[2023.05.21-05.36.16:179][580]LogShaderCompilers: Display: ================================================
+[2023.05.21-05.36.16:247][580]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:247][580]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:249][580]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:325][580]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:342][580]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.21-05.36.16:342][580]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.21-05.36.16:342][580]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.21-05.36.16:344][580]PIE: Server logged in
+[2023.05.21-05.36.16:344][580]PIE: Play in editor total start time 4.688 seconds.
+[2023.05.21-05.36.16:356][580]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:356][580]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:357][580]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:358][580]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.16:567][581]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.21-05.36.16:567][581]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.21-05.36.21:089][117]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.21-05.36.21:089][117]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.21-05.36.24:274][362]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:285][363]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:297][364]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:311][365]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:323][366]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:337][367]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:349][368]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:399][372]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:725][399]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.24:725][399]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.36.35:324][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.36.35:324][334]LogWorld: BeginTearingDown for /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.36.35:329][334]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.36.35:329][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.36.35:330][334]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.36.35:334][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-05.36.35:343][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.36.35:393][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-05.36.35:394][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.21-05.36.35:395][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.21-05.36.35:407][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.36.35:425][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.21-05.36.35:481][335]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.05.21-05.36.38:478][690]LogViewport: Scene viewport resized to 1448x324, mode Windowed.
+[2023.05.21-05.36.38:503][692]LogViewport: Scene viewport resized to 1448x330, mode Windowed.
+[2023.05.21-05.36.38:527][694]LogViewport: Scene viewport resized to 1448x337, mode Windowed.
+[2023.05.21-05.36.38:552][696]LogViewport: Scene viewport resized to 1448x350, mode Windowed.
+[2023.05.21-05.36.38:575][698]LogViewport: Scene viewport resized to 1448x367, mode Windowed.
+[2023.05.21-05.36.38:600][700]LogViewport: Scene viewport resized to 1448x385, mode Windowed.
+[2023.05.21-05.36.38:625][702]LogViewport: Scene viewport resized to 1448x402, mode Windowed.
+[2023.05.21-05.36.38:651][704]LogViewport: Scene viewport resized to 1448x421, mode Windowed.
+[2023.05.21-05.36.38:677][706]LogViewport: Scene viewport resized to 1448x432, mode Windowed.
+[2023.05.21-05.36.38:702][708]LogViewport: Scene viewport resized to 1448x442, mode Windowed.
+[2023.05.21-05.36.38:726][710]LogViewport: Scene viewport resized to 1448x451, mode Windowed.
+[2023.05.21-05.36.38:751][712]LogViewport: Scene viewport resized to 1448x461, mode Windowed.
+[2023.05.21-05.36.38:775][714]LogViewport: Scene viewport resized to 1448x472, mode Windowed.
+[2023.05.21-05.36.38:800][716]LogViewport: Scene viewport resized to 1448x484, mode Windowed.
+[2023.05.21-05.36.38:824][718]LogViewport: Scene viewport resized to 1448x491, mode Windowed.
+[2023.05.21-05.36.38:865][722]LogViewport: Scene viewport resized to 1448x493, mode Windowed.
+[2023.05.21-05.36.38:889][724]LogViewport: Scene viewport resized to 1448x497, mode Windowed.
+[2023.05.21-05.36.38:914][726]LogViewport: Scene viewport resized to 1448x502, mode Windowed.
+[2023.05.21-05.36.47:768][612]LogSlate: Window 'Message' being destroyed
+[2023.05.21-05.36.47:772][612]Message dialog closed, result: Yes, title: Message, text: You are about to disable streaming, all actors in the world will be always loaded. Continue?
+[2023.05.21-05.36.48:096][612]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.48:097][612]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.48:106][612]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.48:148][612]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.48:268][612]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.48:268][612]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.48:269][612]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.48:271][612]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.49:776][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.21-05.36.50:305][747]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP:PersistentLevel.RecastNavMesh_UAID_18C04D3810CB128401-Default).
+[2023.05.21-05.36.52:160][965]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.36.52:169][965]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.36.52:177][965]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.36.52:177][965]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.36.52:177][965]LogWorldPartition: Display: GetPartitionedActors took 61 us (total: 633 us)
+[2023.05.21-05.36.52:249][965]LogWorldPartition: Display: GenerateStreaming took 71 ms (total: 1.04 sec)
+[2023.05.21-05.36.52:255][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.36.52:255][965]PIE: New page: PIE session: Windmills_Demo_WP (May 20, 2023, 6:36:52 PM)
+[2023.05.21-05.36.52:255][965]LogPlayLevel: Creating play world package: /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.36.52:280][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024672s)
+[2023.05.21-05.36.52:280][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP to /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP (0.024704s)
+[2023.05.21-05.36.52:280][965]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.36.52:280][965]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.36.52:281][965]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.36.52:281][965]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.36.52:281][965]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.36.52:285][965]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.36.52:285][965]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 748 ms)
+[2023.05.21-05.36.52:285][965]LogPlayLevel: PIE: World Init took: (0.005360s)
+[2023.05.21-05.36.52:330][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.21-05.36.52:331][965]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.21-05.36.52:331][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-05.36.52:331][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-05.36.52:331][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-05.36.52:332][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-05.36.52:332][965]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.21-05.36.52:332][965]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-05.36.52:332][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.21-05.36.52:332][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-05.36.52:332][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-05.36.52:332][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-05.36.52:332][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-05.36.52:334][965]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-05.36.52:361][965]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.05.21-05.36.52:361][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-05.36.52:361][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-05.36.52:361][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-05.36.52:361][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.21-05.36.52:361][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.21-05.36.52:363][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.21-05.36.52:363][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.21-05.36.52:363][965]LogInit: FAudioDevice initialized.
+[2023.05.21-05.36.52:363][965]LogAudio: Display: Audio Device (ID: 10) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.36.52:366][965]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.21-05.36.52:369][965]LogWorld: Bringing World /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP up for play (max tick rate 0) at 2023.05.20-23.36.52
+[2023.05.21-05.36.52:369][965]LogWorld: Bringing up level for play took: 0.002582
+[2023.05.21-05.36.52:371][965]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.05.21-05.36.52:373][965]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-7630.000 Y=-1290.000 Z=1984.238
+[2023.05.21-05.36.52:373][965]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(0)
+[2023.05.21-05.36.52:373][965]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-7630.000 Y=-1290.000 Z=1984.238,P=0.000000 Y=0.000000 R=-0.000000
+[2023.05.21-05.36.52:376][965]LogStreaming: Display: FlushAsyncLoading(-1): 309 QueuedPackages, 0 AsyncPackages
+[2023.05.21-05.36.52:632][965]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:632][965]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:633][965]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:700][965]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:715][965]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.21-05.36.52:715][965]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.21-05.36.52:715][965]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.21-05.36.52:717][965]PIE: Server logged in
+[2023.05.21-05.36.52:718][965]PIE: Play in editor total start time 0.549 seconds.
+[2023.05.21-05.36.52:724][965]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:724][965]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:725][965]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:726][965]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.36.52:900][966]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.21-05.36.52:900][966]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.21-05.36.56:305][369]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.21-05.36.56:305][369]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.21-05.37.10:034][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.37.10:034][608]LogWorld: BeginTearingDown for /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.37.10:039][608]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.37.10:040][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.37.10:040][608]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.37.10:044][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-05.37.10:054][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.37.10:105][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-05.37.10:105][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.21-05.37.10:106][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.21-05.37.10:110][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.37.10:127][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.21-05.37.10:164][609]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.05.21-05.37.16:076][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.21-05.37.16:080][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.37.16:105][267]LogFileHelpers: No new changes to save!
+[2023.05.21-05.37.16:152][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.21-05.37.16:164][267]LogSavePackage: Moving output files for package: /Game/Windmills/Maps/Windmills_Demo_WP
+[2023.05.21-05.37.16:165][267]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/Windmills_Demo_WP24A91A114C6C8E7A6281F1A040D1A47B.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/Windmills/Maps/Windmills_Demo_WP.umap'
+[2023.05.21-05.37.16:181][267]LogFileHelpers: Saving map 'Windmills_Demo_WP' took 0.076
+[2023.05.21-05.37.16:191][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 733 ms)
+[2023.05.21-05.37.16:199][267]AssetCheck: New page: Asset Save: Windmills_Demo_WP
+[2023.05.21-05.37.16:199][267]LogContentValidation: Display: Validating /Script/Engine.World /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP
+[2023.05.21-05.37.24:830][282]Cmd: MAP LOAD FILE="E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/Windmills/Maps/Windmills_Demo_WP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.21-05.37.24:830][282]LightingResults: New page: Lighting Build
+[2023.05.21-05.37.24:830][282]LoadErrors: New page: Loading map: Windmills_Demo_WP.umap
+[2023.05.21-05.37.24:860][282]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.37.24:860][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.37.24:862][282]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.37.24:863][282]MapCheck: New page: Map Check
+[2023.05.21-05.37.24:863][282]LightingResults: New page: Lighting Build
+[2023.05.21-05.37.24:905][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-05.37.24:914][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.21-05.37.24:953][282]LogAudio: Display: Audio Device (ID: 1) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.37.24:953][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.37.24:954][282]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.37.24:954][282]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.37.24:954][282]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.37.24:954][282]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.37.25:008][282]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.37.25:008][282]LogWorldPartition: Display: WorldPartition initialize took 53 ms (total: 802 ms)
+[2023.05.21-05.37.25:035][282]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.21-05.37.25:092][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.21-05.37.25:105][282]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.21-05.37.25:109][282]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.766ms to complete.
+[2023.05.21-05.37.25:109][282]LogFileHelpers: Loading map 'Windmills_Demo_WP' took 0.279
+[2023.05.21-05.37.26:581][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.37.26:590][449]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.37.26:597][449]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.37.26:597][449]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.37.26:597][449]LogWorldPartition: Display: GetPartitionedActors took 54 us (total: 687 us)
+[2023.05.21-05.37.26:670][449]LogWorldPartition: Display: GenerateStreaming took 72 ms (total: 1.11 sec)
+[2023.05.21-05.37.26:678][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.37.26:678][449]PIE: New page: PIE session: Windmills_Demo_WP (May 20, 2023, 6:37:26 PM)
+[2023.05.21-05.37.26:707][449]LogPlayLevel: Creating play world package: /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.37.26:741][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033570s)
+[2023.05.21-05.37.26:741][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP to /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP (0.033610s)
+[2023.05.21-05.37.26:741][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.37.26:741][449]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.37.26:742][449]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.37.26:742][449]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.37.26:742][449]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.37.26:746][449]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.37.26:746][449]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 807 ms)
+[2023.05.21-05.37.26:746][449]LogPlayLevel: PIE: World Init took: (0.005622s)
+[2023.05.21-05.37.26:794][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.21-05.37.26:796][449]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.21-05.37.26:796][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-05.37.26:796][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-05.37.26:796][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-05.37.26:796][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-05.37.26:796][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.21-05.37.26:796][449]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-05.37.26:796][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.21-05.37.26:796][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-05.37.26:797][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-05.37.26:797][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-05.37.26:797][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-05.37.26:800][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-05.37.26:827][449]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.05.21-05.37.26:828][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-05.37.26:828][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-05.37.26:828][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-05.37.26:828][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.05.21-05.37.26:828][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.05.21-05.37.26:830][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.05.21-05.37.26:830][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.05.21-05.37.26:830][449]LogInit: FAudioDevice initialized.
+[2023.05.21-05.37.26:830][449]LogAudio: Display: Audio Device (ID: 11) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.37.26:833][449]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.21-05.37.26:835][449]LogWorld: Bringing World /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP up for play (max tick rate 0) at 2023.05.20-23.37.26
+[2023.05.21-05.37.26:836][449]LogWorld: Bringing up level for play took: 0.002805
+[2023.05.21-05.37.26:838][449]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.05.21-05.37.26:840][449]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-7630.000 Y=-1290.000 Z=1984.238
+[2023.05.21-05.37.26:840][449]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(0)
+[2023.05.21-05.37.26:840][449]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-7630.000 Y=-1290.000 Z=1984.238,P=0.000000 Y=0.000000 R=-0.000000
+[2023.05.21-05.37.26:844][449]LogStreaming: Display: FlushAsyncLoading(-1): 309 QueuedPackages, 0 AsyncPackages
+[2023.05.21-05.37.27:108][449]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:108][449]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:109][449]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:179][449]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:194][449]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.21-05.37.27:194][449]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.21-05.37.27:194][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.21-05.37.27:195][449]PIE: Server logged in
+[2023.05.21-05.37.27:196][449]PIE: Play in editor total start time 0.607 seconds.
+[2023.05.21-05.37.27:205][449]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:205][449]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:207][449]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:208][449]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.37.27:399][450]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.21-05.37.27:399][450]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.21-05.37.30:605][829]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.21-05.37.30:605][829]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.21-05.37.36:564][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.37.36:564][339]LogWorld: BeginTearingDown for /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.37.36:568][339]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.37.36:569][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.37.36:569][339]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.37.36:573][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-05.37.36:582][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.37.36:628][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.37.36:631][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.21-05.37.36:634][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.21-05.37.36:657][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.21-05.37.36:695][340]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.05.21-05.37.48:007][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.37.48:031][589]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01
+[2023.05.21-05.37.48:031][589]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie01ED3D3CE942A131ED9280D3AEA7333814.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01.uasset'
+[2023.05.21-05.37.48:037][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 763 ms)
+[2023.05.21-05.37.48:045][589]AssetCheck: New page: Asset Save: BT_Zombie01
+[2023.05.21-05.37.48:045][589]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01.BT_Zombie01
+[2023.05.21-05.37.53:576][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.37.53:606][229]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02
+[2023.05.21-05.37.53:606][229]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie0227A3CD9A42BB82021A1EC89A8AD5A0FB.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02.uasset'
+[2023.05.21-05.37.53:612][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 799 ms)
+[2023.05.21-05.37.53:621][229]AssetCheck: New page: Asset Save: BT_Zombie02
+[2023.05.21-05.37.53:621][229]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02.BT_Zombie02
+[2023.05.21-05.37.56:053][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.21-05.37.59:331][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.21-05.38.00:038][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.38.00:046][963]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.38.00:054][963]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.38.00:054][963]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.38.00:054][963]LogWorldPartition: Display: GetPartitionedActors took 55 us (total: 743 us)
+[2023.05.21-05.38.00:128][963]LogWorldPartition: Display: GenerateStreaming took 74 ms (total: 1.18 sec)
+[2023.05.21-05.38.00:136][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.38.00:136][963]PIE: New page: PIE session: Windmills_Demo_WP (May 20, 2023, 6:38:00 PM)
+[2023.05.21-05.38.00:157][963]LogPlayLevel: Creating play world package: /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.38.00:192][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034335s)
+[2023.05.21-05.38.00:192][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP to /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP (0.034376s)
+[2023.05.21-05.38.00:192][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.38.00:192][963]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.38.00:193][963]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.38.00:193][963]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.38.00:193][963]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.38.00:197][963]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.38.00:197][963]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 812 ms)
+[2023.05.21-05.38.00:198][963]LogPlayLevel: PIE: World Init took: (0.006092s)
+[2023.05.21-05.38.00:243][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.21-05.38.00:245][963]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.21-05.38.00:245][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-05.38.00:245][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-05.38.00:245][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-05.38.00:245][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-05.38.00:245][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.21-05.38.00:245][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-05.38.00:245][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.21-05.38.00:245][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-05.38.00:245][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-05.38.00:245][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-05.38.00:245][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-05.38.00:248][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-05.38.00:273][963]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.05.21-05.38.00:273][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-05.38.00:273][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-05.38.00:273][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-05.38.00:274][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.05.21-05.38.00:274][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.05.21-05.38.00:275][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.05.21-05.38.00:275][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.05.21-05.38.00:275][963]LogInit: FAudioDevice initialized.
+[2023.05.21-05.38.00:275][963]LogAudio: Display: Audio Device (ID: 12) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.38.00:279][963]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.21-05.38.00:281][963]LogWorld: Bringing World /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP up for play (max tick rate 0) at 2023.05.20-23.38.00
+[2023.05.21-05.38.00:282][963]LogWorld: Bringing up level for play took: 0.002640
+[2023.05.21-05.38.00:284][963]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.05.21-05.38.00:285][963]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-7630.000 Y=-1290.000 Z=1984.238
+[2023.05.21-05.38.00:285][963]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(0)
+[2023.05.21-05.38.00:285][963]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-7630.000 Y=-1290.000 Z=1984.238,P=0.000000 Y=0.000000 R=-0.000000
+[2023.05.21-05.38.00:290][963]LogStreaming: Display: FlushAsyncLoading(-1): 309 QueuedPackages, 0 AsyncPackages
+[2023.05.21-05.38.00:564][963]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:564][963]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:565][963]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:636][963]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:650][963]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.21-05.38.00:650][963]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.21-05.38.00:650][963]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.21-05.38.00:652][963]PIE: Server logged in
+[2023.05.21-05.38.00:653][963]PIE: Play in editor total start time 0.607 seconds.
+[2023.05.21-05.38.00:661][963]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:661][963]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:663][963]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:663][963]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.38.00:861][964]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.21-05.38.00:861][964]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.21-05.38.03:624][291]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.21-05.38.03:625][291]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.21-05.38.07:384][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.38.07:384][603]LogWorld: BeginTearingDown for /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.38.07:389][603]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.38.07:390][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.38.07:390][603]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.38.07:394][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-05.38.07:402][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.38.07:452][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-05.38.07:452][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.21-05.38.07:454][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.21-05.38.07:457][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.38.07:475][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.21-05.38.07:505][604]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.05.21-05.38.27:087][668]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.38.27:087][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.38.29:183][910]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BTT_Patroll.BTT_Patroll
+[2023.05.21-05.38.29:183][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.39.18:017][134]Cmd: TRANSACTION UNDO
+[2023.05.21-05.39.18:017][134]LogEditorTransaction: Undo Delete current selection
+[2023.05.21-05.39.18:324][144]Cmd: TRANSACTION UNDO
+[2023.05.21-05.39.18:324][144]LogEditorTransaction: Undo Delete current selection
+[2023.05.21-05.39.38:010][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.39.38:018][766]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.39.38:025][766]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.39.38:025][766]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.39.38:025][766]LogWorldPartition: Display: GetPartitionedActors took 51 us (total: 795 us)
+[2023.05.21-05.39.38:097][766]LogWorldPartition: Display: GenerateStreaming took 72 ms (total: 1.26 sec)
+[2023.05.21-05.39.38:108][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.39.38:108][766]PIE: New page: PIE session: Windmills_Demo_WP (May 20, 2023, 6:39:38 PM)
+[2023.05.21-05.39.38:108][766]LogPlayLevel: Creating play world package: /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.39.38:141][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033901s)
+[2023.05.21-05.39.38:141][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP to /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP (0.033937s)
+[2023.05.21-05.39.38:141][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.39.38:142][766]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.39.38:142][766]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.39.38:142][766]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.39.38:142][766]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.39.38:146][766]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.39.38:146][766]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 816 ms)
+[2023.05.21-05.39.38:147][766]LogPlayLevel: PIE: World Init took: (0.005475s)
+[2023.05.21-05.39.38:195][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.21-05.39.38:199][766]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.21-05.39.38:199][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-05.39.38:199][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-05.39.38:199][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-05.39.38:199][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-05.39.38:199][766]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.21-05.39.38:199][766]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-05.39.38:199][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.21-05.39.38:199][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-05.39.38:199][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-05.39.38:199][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-05.39.38:199][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-05.39.38:201][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-05.39.38:227][766]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.05.21-05.39.38:227][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-05.39.38:227][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-05.39.38:227][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-05.39.38:228][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.05.21-05.39.38:228][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.05.21-05.39.38:229][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.05.21-05.39.38:229][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.05.21-05.39.38:229][766]LogInit: FAudioDevice initialized.
+[2023.05.21-05.39.38:229][766]LogAudio: Display: Audio Device (ID: 13) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.39.38:234][766]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.21-05.39.38:236][766]LogWorld: Bringing World /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP up for play (max tick rate 0) at 2023.05.20-23.39.38
+[2023.05.21-05.39.38:237][766]LogWorld: Bringing up level for play took: 0.003052
+[2023.05.21-05.39.38:239][766]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.05.21-05.39.38:241][766]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-7630.000 Y=-1290.000 Z=1984.238
+[2023.05.21-05.39.38:241][766]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(0)
+[2023.05.21-05.39.38:241][766]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-7630.000 Y=-1290.000 Z=1984.238,P=0.000000 Y=0.000000 R=-0.000000
+[2023.05.21-05.39.38:246][766]LogStreaming: Display: FlushAsyncLoading(-1): 309 QueuedPackages, 0 AsyncPackages
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: ================================================
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Total job queries 2072, among them cache hits 1724 (83.20%)
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Tracking 348 distinct input hashes that result in 210 distinct outputs (60.34%)
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: RAM used: 3.46 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.42%
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Average time worker was idle: 0.11 s
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 1.22 s
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 1.32
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.27 s
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: Average processing rate: 0.88 jobs/sec
+[2023.05.21-05.39.38:476][766]LogShaderCompilers: Display: ================================================
+[2023.05.21-05.39.38:521][766]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:521][766]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:522][766]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:591][766]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:604][766]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.21-05.39.38:604][766]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.21-05.39.38:604][766]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.21-05.39.38:607][766]PIE: Server logged in
+[2023.05.21-05.39.38:608][766]PIE: Play in editor total start time 0.59 seconds.
+[2023.05.21-05.39.38:621][766]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:621][766]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:622][766]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:623][766]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.39.38:865][767]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.21-05.39.38:865][767]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.21-05.39.41:557][ 78]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.21-05.39.41:557][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.21-05.39.50:524][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.39.50:524][851]LogWorld: BeginTearingDown for /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.39.50:529][851]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.39.50:529][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.39.50:530][851]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.39.50:534][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-05.39.50:543][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.39.50:593][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-05.39.50:594][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.21-05.39.50:595][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.21-05.39.50:600][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.39.50:617][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.21-05.39.50:656][852]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.05.21-05.45.01:530][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.45.01:539][ 97]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.45.01:547][ 97]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.45.01:547][ 97]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.45.01:547][ 97]LogWorldPartition: Display: GetPartitionedActors took 54 us (total: 849 us)
+[2023.05.21-05.45.01:618][ 97]LogWorldPartition: Display: GenerateStreaming took 71 ms (total: 1.33 sec)
+[2023.05.21-05.45.01:625][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.45.01:626][ 97]PIE: New page: PIE session: Windmills_Demo_WP (May 20, 2023, 6:45:01 PM)
+[2023.05.21-05.45.01:626][ 97]LogPlayLevel: Creating play world package: /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.45.01:660][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033211s)
+[2023.05.21-05.45.01:660][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP to /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP (0.033243s)
+[2023.05.21-05.45.01:660][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.45.01:660][ 97]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.45.01:660][ 97]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.45.01:661][ 97]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.45.01:661][ 97]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.45.01:665][ 97]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.45.01:665][ 97]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 821 ms)
+[2023.05.21-05.45.01:665][ 97]LogPlayLevel: PIE: World Init took: (0.005570s)
+[2023.05.21-05.45.01:710][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.21-05.45.01:712][ 97]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.05.21-05.45.01:712][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-05.45.01:712][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-05.45.01:712][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-05.45.01:712][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-05.45.01:712][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.21-05.45.01:712][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-05.45.01:712][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.21-05.45.01:712][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-05.45.01:712][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-05.45.01:712][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-05.45.01:712][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-05.45.01:714][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-05.45.01:742][ 97]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.05.21-05.45.01:742][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-05.45.01:742][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-05.45.01:743][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-05.45.01:743][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.05.21-05.45.01:743][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.05.21-05.45.01:745][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.05.21-05.45.01:745][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.05.21-05.45.01:745][ 97]LogInit: FAudioDevice initialized.
+[2023.05.21-05.45.01:745][ 97]LogAudio: Display: Audio Device (ID: 14) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.45.01:747][ 97]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.21-05.45.01:750][ 97]LogWorld: Bringing World /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP up for play (max tick rate 0) at 2023.05.20-23.45.01
+[2023.05.21-05.45.01:750][ 97]LogWorld: Bringing up level for play took: 0.002751
+[2023.05.21-05.45.01:752][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.05.21-05.45.01:754][ 97]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-7630.000 Y=-1290.000 Z=1984.238
+[2023.05.21-05.45.01:754][ 97]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(0)
+[2023.05.21-05.45.01:754][ 97]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-7630.000 Y=-1290.000 Z=1984.238,P=0.000000 Y=0.000000 R=-0.000000
+[2023.05.21-05.45.01:758][ 97]LogStreaming: Display: FlushAsyncLoading(-1): 309 QueuedPackages, 0 AsyncPackages
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: ================================================
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Total job queries 2225, among them cache hits 1877 (84.36%)
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Tracking 348 distinct input hashes that result in 210 distinct outputs (60.34%)
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: RAM used: 3.46 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.42%
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Average time worker was idle: 0.11 s
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 1.22 s
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 1.32
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.27 s
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: Average processing rate: 0.88 jobs/sec
+[2023.05.21-05.45.01:971][ 97]LogShaderCompilers: Display: ================================================
+[2023.05.21-05.45.02:013][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:013][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:015][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:084][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:099][ 97]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.21-05.45.02:099][ 97]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.21-05.45.02:099][ 97]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.21-05.45.02:101][ 97]PIE: Server logged in
+[2023.05.21-05.45.02:101][ 97]PIE: Play in editor total start time 0.562 seconds.
+[2023.05.21-05.45.02:110][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:110][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:111][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:112][ 97]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.45.02:283][ 98]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.21-05.45.02:283][ 98]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.21-05.45.05:061][424]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.21-05.45.05:061][424]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.21-05.45.09:846][836]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.45.09:846][836]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.45.15:443][354]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.45.15:443][354]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.45.47:184][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.45.47:184][328]LogWorld: BeginTearingDown for /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.45.47:188][328]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.45.47:189][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.45.47:189][328]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.45.47:193][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-05.45.47:202][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.45.47:250][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-05.45.47:251][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.21-05.45.47:253][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.21-05.45.47:257][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.45.47:277][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.21-05.45.47:306][329]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.05.21-05.46.04:583][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.46.04:615][980]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01
+[2023.05.21-05.46.04:616][980]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie0148E73F1D43FB7443EA97CCB7301C75D6.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01.uasset'
+[2023.05.21-05.46.04:622][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 839 ms)
+[2023.05.21-05.46.04:630][980]AssetCheck: New page: Asset Save: BT_Zombie01
+[2023.05.21-05.46.04:630][980]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BT_Zombie01.BT_Zombie01
+[2023.05.21-05.46.20:254][695]BlueprintLog: New page: Compile BTT_Wander
+[2023.05.21-05.46.20:316][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.21-05.46.20:904][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.46.20:937][757]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BTT_Wander
+[2023.05.21-05.46.20:938][757]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BTT_Wander87660EE04B182D820EC4B0B34554B2E5.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_01/IA/BTT_Wander.uasset'
+[2023.05.21-05.46.20:944][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 879 ms)
+[2023.05.21-05.46.20:953][757]AssetCheck: New page: Asset Save: BTT_Wander
+[2023.05.21-05.46.20:953][757]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_01/IA/BTT_Wander.BTT_Wander
+[2023.05.21-05.46.24:116][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround.BTT_RoamAround
+[2023.05.21-05.46.24:116][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.46.35:450][324]BlueprintLog: New page: Compile BTT_RoamAround
+[2023.05.21-05.46.35:522][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.21-05.46.35:990][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.46.36:021][369]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround
+[2023.05.21-05.46.36:021][369]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BTT_RoamAround2CD1B5A044DDD6297A173A95C9A6CDCE.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround.uasset'
+[2023.05.21-05.46.36:027][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 915 ms)
+[2023.05.21-05.46.36:039][369]AssetCheck: New page: Asset Save: BTT_RoamAround
+[2023.05.21-05.46.36:039][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/IA/Enemigos/Zombie_03/IA/BTT_RoamAround.BTT_RoamAround
+[2023.05.21-05.46.38:292][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-05.46.38:299][621]LogContentBundle: [Container: Windmills_Demo_WP] Generating Streaming for 0 Content Bundles.
+[2023.05.21-05.46.38:308][621]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.21-05.46.38:308][621]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.21-05.46.38:308][621]LogWorldPartition: Display: GetPartitionedActors took 52 us (total: 902 us)
+[2023.05.21-05.46.38:382][621]LogWorldPartition: Display: GenerateStreaming took 74 ms (total: 1.40 sec)
+[2023.05.21-05.46.38:390][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-05.46.38:390][621]PIE: New page: PIE session: Windmills_Demo_WP (May 20, 2023, 6:46:38 PM)
+[2023.05.21-05.46.38:438][621]LogPlayLevel: Creating play world package: /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.46.38:471][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034258s)
+[2023.05.21-05.46.38:471][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Windmills/Maps/Windmills_Demo_WP.Windmills_Demo_WP to /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP (0.034297s)
+[2023.05.21-05.46.38:471][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-05.46.38:472][621]LogAIModule: Creating AISystem for world Windmills_Demo_WP
+[2023.05.21-05.46.38:472][621]LogWorldPartition: ULevel::OnLevelLoaded(Windmills_Demo_WP)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.21-05.46.38:472][621]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-05.46.38:472][621]LogWorldPartition: UWorldPartition::Initialize(Asset=Windmills_Demo_WP, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.21-05.46.38:478][621]LogContentBundle: [Container: Windmills_Demo_WP] Creating new contrainer.
+[2023.05.21-05.46.38:478][621]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 826 ms)
+[2023.05.21-05.46.38:478][621]LogPlayLevel: PIE: World Init took: (0.005989s)
+[2023.05.21-05.46.38:530][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.21-05.46.38:532][621]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.05.21-05.46.38:532][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-05.46.38:532][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-05.46.38:532][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-05.46.38:532][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-05.46.38:532][621]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.21-05.46.38:532][621]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-05.46.38:532][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.21-05.46.38:532][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-05.46.38:532][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-05.46.38:532][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-05.46.38:532][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-05.46.38:534][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-05.46.38:561][621]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.05.21-05.46.38:561][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-05.46.38:561][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-05.46.38:561][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-05.46.38:562][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.05.21-05.46.38:562][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.05.21-05.46.38:563][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.05.21-05.46.38:563][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.05.21-05.46.38:563][621]LogInit: FAudioDevice initialized.
+[2023.05.21-05.46.38:563][621]LogAudio: Display: Audio Device (ID: 15) registered with world 'Windmills_Demo_WP'.
+[2023.05.21-05.46.38:566][621]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.21-05.46.38:569][621]LogWorld: Bringing World /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP.Windmills_Demo_WP up for play (max tick rate 0) at 2023.05.20-23.46.38
+[2023.05.21-05.46.38:569][621]LogWorld: Bringing up level for play took: 0.002729
+[2023.05.21-05.46.38:571][621]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2023.05.21-05.46.38:573][621]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-7630.000 Y=-1290.000 Z=1984.238
+[2023.05.21-05.46.38:573][621]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(0)
+[2023.05.21-05.46.38:573][621]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-7630.000 Y=-1290.000 Z=1984.238,P=0.000000 Y=0.000000 R=-0.000000
+[2023.05.21-05.46.38:576][621]LogStreaming: Display: FlushAsyncLoading(-1): 309 QueuedPackages, 0 AsyncPackages
+[2023.05.21-05.46.38:835][621]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.38:835][621]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.38:836][621]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.38:905][621]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.38:919][621]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.21-05.46.38:919][621]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.21-05.46.38:919][621]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.21-05.46.38:920][621]PIE: Server logged in
+[2023.05.21-05.46.38:921][621]PIE: Play in editor total start time 0.622 seconds.
+[2023.05.21-05.46.38:931][621]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.38:931][621]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.38:932][621]LogStaticMesh: Warning: Invalid material [MI_Glass_LitLamp] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.38:933][621]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [SM_Latern] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.21-05.46.39:112][622]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.21-05.46.39:112][622]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.21-05.46.41:483][899]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.21-05.46.41:483][899]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.21-05.46.45:435][227]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.46.45:435][227]LogBlueprintUserMessages: [BP_Carabina_C_1] Estas cerca de un arma
+[2023.05.21-05.46.51:473][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.46.51:474][738]LogWorld: BeginTearingDown for /Game/Windmills/Maps/UEDPIE_0_Windmills_Demo_WP
+[2023.05.21-05.46.51:479][738]LogWorld: UWorld::CleanupWorld for Windmills_Demo_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-05.46.51:479][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.46.51:480][738]LogContentBundle: [Container: Windmills_Demo_WP] Deleting container.
+[2023.05.21-05.46.51:484][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-05.46.51:493][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-05.46.51:551][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-05.46.51:551][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.21-05.46.51:553][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.21-05.46.51:556][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-05.46.51:574][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.21-05.46.51:645][739]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.05.21-05.47.23:997][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.21-05.47.24:000][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.21-05.47.24:027][152]LogSavePackage: Moving output files for package: /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02
+[2023.05.21-05.47.24:027][152]LogSavePackage: Moving 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Saved/BT_Zombie029AA80C3247EC1C65BD35E89432DBD191.tmp' to 'E:/FCFM/7mo Semestre/OV/AvancesGit/PIA_OV/Content/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02.uasset'
+[2023.05.21-05.47.24:038][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 954 ms)
+[2023.05.21-05.47.24:046][152]AssetCheck: New page: Asset Save: BT_Zombie02
+[2023.05.21-05.47.24:046][152]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/ThirdPerson/IA/Enemigos/Zombie_02/IA/BT_Zombie02.BT_Zombie02
+[2023.05.21-05.48.02:845][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
